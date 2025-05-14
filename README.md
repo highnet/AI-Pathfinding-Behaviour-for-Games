@@ -20,7 +20,7 @@ A C# project implementing advanced AI pathfinding algorithms and behaviours for 
 
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/yourusername/AI-Pathfinding-Behaviour-for-Games.git
+   git clone https://github.com/highnet/AI-Pathfinding-Behaviour-for-Games.git
    ```
 2. Open the project in your preferred IDE.
 3. Build the solution to restore dependencies.
